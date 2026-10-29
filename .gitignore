@@ -21,3 +21,6 @@ Thumbs.db
 *.log
 *.tmp
 gradio_cached_examples/
+
+gradio_hf_space/
+hf_repo/
